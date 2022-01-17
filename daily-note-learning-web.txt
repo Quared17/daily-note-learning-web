@@ -1,0 +1,7 @@
+Catatan Harian Belajar Web 
+
+
+Senin, 17 Januari 2022 :
+1. Belajar Git Merge Conflict
+2. Belajar Github Pages
+
