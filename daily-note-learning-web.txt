@@ -5,7 +5,12 @@ Senin, 17 Januari 2022 :
 1. Belajar Git Merge Conflict
 2. Belajar Github Pages
 
+
 Minggu, 6 February 2022 :
 1. Start Series Learning OOP PHP (basic)
 2. Learning Object, Class, Propherty, Method (OOP PHP Basic)
+
+
+Selasa, 8 February 2022 :
+1. Learning Inheritance (pewarisan) dan Overriding (parent::) (OOP PHP Basic)
 
