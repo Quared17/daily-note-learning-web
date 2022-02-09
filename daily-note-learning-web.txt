@@ -8,9 +8,12 @@ Senin, 17 Januari 2022 :
 
 Minggu, 6 February 2022 :
 1. Start Series Learning OOP PHP (basic)
-2. Learning Object, Class, Propherty, Method (OOP PHP Basic)
+2. Learning Object, Class, Propherty, Method - (OOP PHP Basic)
 
 
 Selasa, 8 February 2022 :
-1. Learning Inheritance (pewarisan) dan Overriding (parent::) (OOP PHP Basic)
+1. Learning Inheritance (pewarisan) dan Overriding (parent::) - (OOP PHP Basic)
 
+
+Rabu, 9 February 2022 :
+1. Learning Access Modifier (Visibility) dan Accessor Method (Setter and Getter) - (OOP PHP Basic)
