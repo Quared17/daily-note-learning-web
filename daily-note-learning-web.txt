@@ -17,3 +17,23 @@ Selasa, 8 February 2022 :
 
 Rabu, 9 February 2022 :
 1. Learning Access Modifier (Visibility) dan Accessor Method (Setter and Getter) - (OOP PHP Basic)
+
+
+Kamis, 10 Februari 2022 :
+1. Learning Static Keyword, Constant, Abstract Class - Seri Belajar OOP PHP (basic)
+
+
+Jumat, 11 Februari 2022 :
+1. Libur
+
+
+Sabtu, 12 Februari 2022 : 
+1. Learning Interface - Seri Belajar OOP PHP (basic)
+
+
+Minggu, 13 Februari 2022 :
+1. Learning autoloading dan namespace - Seri Belajar OOP PHP (basic)
+
+
+Senin, 14 Februari 2022 :
+1. Libur
