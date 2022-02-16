@@ -41,7 +41,14 @@ Senin, 14 Februari 2022 :
 
 Selasa, 15 Februari 2022 :
 1. Starting Learning MVC with PHP :
-   - Practice create routing and controller
+   - Learn controller(routing)
+   - Practice create routing
+
+
+Rabu, 16 Februari 2022 :
+1. Learn view (series Learning MVC with PHP)
+2. Practice create view
+
 
 
 
