@@ -50,6 +50,10 @@ Rabu, 16 Februari 2022 :
 2. Practice create view
 
 
+Kamis, 17 Februari 2022 :
+1. Learn models (series Learning MVC with PHP)
+
+
 
 
 
